@@ -1,0 +1,19 @@
+{
+  "name": "seldusjalfur",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "firebase serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3gillsig/seldumedmer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3gillsig/seldumedmer/issues"
+  },
+  "homepage": "https://github.com/3gillsig/seldumedmer#readme"
+}
